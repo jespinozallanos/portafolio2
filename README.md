@@ -1,5 +1,5 @@
-<a href="https://github.com/gmartinezramirez/data-science-portafolio">
-    <img src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/docs/logo.png" alt="logo" title="logo" align="right" height="160" />
+<a href="https://github.com/jespinozallanos/portafolio2">
+    <img src="https://github.com/jespinozallanos/portafolio2/blob/main/proy1.png" alt="logo" title="logo" align="right" height="160" />
 </a>
 
 Data Science Portafolio
