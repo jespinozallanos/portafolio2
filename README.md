@@ -14,7 +14,7 @@ Data Science Portafolio
 
 <p align="center">
   • <a href="#Overview">Overview</a> •
-  <a href="#Cómo usar">Cómo usar</a> •
+  <a href="#Como usar">Como usar</a> •
   <a href="#Descripción">Descripción</a> •
   <a href="#Créditos">Créditos</a> •
   <a href="#Licencias">Licencias</a>
@@ -57,7 +57,7 @@ image.
 *  DCGAN as data augmentation of images of surface defects in steel
 * The best result I got was with 6,000 epochs.
 
-Cómo usar
+Como usar
 ==========
 
 * Requeriments
