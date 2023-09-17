@@ -7,7 +7,7 @@ Data Science Portafolio
 
 <p align="center"><img width=95% src="https://github.com/jespinozallanos/portafolio2/edit/main/Schematic.png"></p>
 
- <a href="../otros intentos/lstm2.ipynb">
+ <a href="otros intentos/lstm2.ipynb">
   • <a href="#overview">Overview</a> •
 <p align="center">
   • <a href="#overview">Overview</a> •
