@@ -56,9 +56,10 @@ Cómo usar
 
 * Requeriments
   * Google Colab
+  * Python V3.8.6
+  * Keras
   * Dataset Northeastern University Surface Defect Database.
   * RUN
-
 
 * Go to the notebook folder and throught Colab access to the notebook (.ipynb).
   
@@ -76,5 +77,4 @@ JULIO ESPINOZA LLANOS
 
 Licencias
 ======================
-Python V3.8.6
-Keras
+MIT
