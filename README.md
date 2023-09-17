@@ -27,7 +27,7 @@ prediccion de xxxxxx
 
 <p align="center"><img width=40% src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/docs/titanic-logo.jpg"></p>
 
-[Project Folder](https://github.com/gmartinezramirez/data-science-portafolio/tree/master/notebooks/01-classification/01-titanic) | [Jupyter Notebook](https://github.com/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/titanic-passengers.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/titanic-passengers.ipynb)
+ [Jupyter Notebook](https://github.com/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/titanic-passengers.ipynb)
 
 
 
