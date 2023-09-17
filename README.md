@@ -57,7 +57,6 @@ image.
 *  DCGAN as data augmentation of images of surface defects in steel
 * The best result I got was with 6,000 epochs.
 
-
 Cómo usar
 ==========
 
