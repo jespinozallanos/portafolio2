@@ -43,7 +43,7 @@ image.
 
 <p align="center"><img width=40% src="https://github.com/jespinozallanos/portafolio2/blob/main/res5.png"></p>
 
-| [Jupyter Notebook](https://github.com/jespinozallanos/proj_udec_corr/blob/master/otros%20intentos/lstm2.ipynb)  |
+| [Jupyter Notebook](https://github.com/jespinozallanos/portafolio2/blob/main/DCGAN_SCRATCHES.ipynb)  |
 
 
 
