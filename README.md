@@ -18,8 +18,7 @@ Data Science Portafolio
 Overview
 ======================
 
-### Implementation of DCGAN as data augmentation of images of surface defects in steel to 
-improve the performance of classifiers.
+### Implementation of DCGAN as data augmentation of images of surface defects in steel to improve the performance of classifiers.
 
 In the industry, the production of steel 
 and specifically the detection and classification of 
