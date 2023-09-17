@@ -8,7 +8,7 @@ Data Science Portafolio
 <p align="center">
   • <a href="#overview">Overview</a> •
   <a href="#how-to-use">Cómo usar</a> •
-  <a href="#description">Descripcion</a> •
+  <a href="#description">Descripción</a> •
   <a href="#credits">Créditos</a> •
   <a href="#license">Licencias</a>
 </p>
@@ -41,9 +41,9 @@ of steel defects is feasible, with an
 indistinguishable visual difference from a real 
 image.
 
-<p align="center"><img width=40% src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/docs/titanic-logo.jpg"></p>
+<p align="center"><img width=40% src="https://github.com/jespinozallanos/portafolio2/blob/main/res5.png"></p>
 
- [Jupyter Notebook](https://github.com/jespinozallanos/proj_udec_corr/blob/master/otros%20intentos/lstm2.ipynb)
+| [Jupyter Notebook](https://github.com/jespinozallanos/proj_udec_corr/blob/master/otros%20intentos/lstm2.ipynb)  |
 
 
 
