@@ -5,8 +5,6 @@
 Data Science Portafolio
 ======================
 
-<p align="center"><img width=95% src="https://github.com/jespinozallanos/portafolio2/edit/main/Schematic.png"></p>
-
 <p align="center">
   • <a href="#overview">Overview</a> •
   <a href="#how-to-use">Cómo usar</a> •
