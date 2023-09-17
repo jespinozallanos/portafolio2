@@ -47,34 +47,33 @@ image.
 
 
 
-* Reference: https://www.kaggle.com/c/titanic
-* Analysis of what sorts of people were likely to survive. Predicting which passengers survived the tragedy.
-* The best result I got was 0.80861. Reachable maximum accuracy is ~82-85%.
+*  DCGAN as data augmentation of images of surface defects in steel
+* The best result I got was with 6,000 epochs.
 
 
 How to use
 ======================
 
 * Requeriments
-  * Docker
-  * Docker-compose
+  * Google Colab
+  * Dataset Northeastern University Surface Defect Database.
+  * RUN
 
-* Run
 
-```bash
-$ docker-compose up
-```
-
-* Go to the notebook folder and throught jupyter access to the notebook (.ipynb).
+* Go to the notebook folder and throught Colab access to the notebook (.ipynb).
+  
 Description
 ======================
-TBD
+1. Initial data treatment and exploration.
+2. First DCGAN Model.
+3. DCGAN final model.
+4. Evaluation Metrics
 
 
 Credits
 ======================
-Gonzalo Javier Martinez Ramirez
-
+JULIO ESPINOZA LLANOS
 Licence
 ======================
-Apache 2.0
+Python V3.8.6
+Keras
