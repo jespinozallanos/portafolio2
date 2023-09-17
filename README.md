@@ -1,19 +1,19 @@
 Data Science Portafolio
 ======================
 
-
-Project N°1
-=============
-
-
+# 1. Project 1:
+   
+<p align="center">
 <a href="https://github.com/jespinozallanos/portafolio2">
-    <img src="https://github.com/jespinozallanos/portafolio2/blob/main/proy1.png" alt="logo" title="logo" align="right" height="160" />
+    <img src="https://github.com/jespinozallanos/portafolio2/blob/main/proy1.png" alt="proy1" title="logo" height="160" />
 </a>
+</p>
+
 
 
 
 <p align="center">
-  • <a href="#overview">Overview</a> •
+  • <a href="#Overview">Overview</a> •
   <a href="#Cómo usar">Cómo usar</a> •
   <a href="#Descripción">Descripción</a> •
   <a href="#Créditos">Créditos</a> •
@@ -23,7 +23,7 @@ Project N°1
 
 
 Overview
-======================
+=========
 
 ### Implementation of DCGAN as data augmentation of images of surface defects in steel to improve the performance of classifiers.
 
@@ -59,7 +59,7 @@ image.
 
 
 Cómo usar
-======================
+==========
 
 * Requeriments
   * Google Colab
@@ -71,7 +71,7 @@ Cómo usar
 * Go to the notebook folder and throught Colab access to the notebook (.ipynb).
   
 Descripción
-======================
+============
 1. Initial data treatment and exploration.
 2. First DCGAN Model.
 3. DCGAN final model.
@@ -79,9 +79,9 @@ Descripción
 
 
 Créditos
-======================
+=========
 JULIO ESPINOZA LLANOS
 
 Licencias
-======================
+=========
 MIT
