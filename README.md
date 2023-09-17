@@ -14,7 +14,7 @@ Data Science Portafolio
 
 <p align="center">
   • <a href="#Overview">Overview</a> •
-   <a href="#Como usar">Como usar</a> •
+   <a href="#Como_usar">Como usar</a> •
   <a href="#Descripción">Descripción</a> •
   <a href="#Créditos">Créditos</a> •
   <a href="#Licencias">Licencias</a>•
