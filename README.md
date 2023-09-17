@@ -1,9 +1,10 @@
+Data Science Portafolio
+======================
 <a href="https://github.com/jespinozallanos/portafolio2">
     <img src="https://github.com/jespinozallanos/portafolio2/blob/main/proy1.png" alt="logo" title="logo" align="right" height="160" />
 </a>
 
-Data Science Portafolio
-======================
+
 
 <p align="center">
   • <a href="#overview">Overview</a> •
