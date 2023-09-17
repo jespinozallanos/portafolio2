@@ -9,10 +9,10 @@ Data Science Portafolio
 
 <p align="center">
   • <a href="#overview">Overview</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#description">Description</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#how-to-use">Cómo usar</a> •
+  <a href="#description">Descripcion</a> •
+  <a href="#credits">Créditos</a> •
+  <a href="#license">Licencias</a>
 </p>
 
 
@@ -20,7 +20,7 @@ Data Science Portafolio
 Overview
 ======================
 
-### Classification problems
+### Modelo de prediccion de velocidad de corrosion en la ciudad de Arica.
 
 prediccion de xxxxxx
 
