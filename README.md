@@ -2,7 +2,9 @@ Data Science Portafolio
 ======================
 
 
-Project N°1:
+Project N°1
+=============
+
 
 <a href="https://github.com/jespinozallanos/portafolio2">
     <img src="https://github.com/jespinozallanos/portafolio2/blob/main/proy1.png" alt="logo" title="logo" align="right" height="160" />
