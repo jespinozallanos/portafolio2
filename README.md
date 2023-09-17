@@ -84,3 +84,5 @@ JULIO ESPINOZA LLANOS
 Licencias
 =========
 MIT
+
+<a href="https://www.linkedin.com/in/julio-espinoza-llanos-17475448/">
