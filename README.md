@@ -17,7 +17,9 @@ Data Science Portafolio
   <a href="#Como usar">Como usar</a> •
   <a href="#Descripción">Descripción</a> •
   <a href="#Créditos">Créditos</a> •
-  <a href="#Licencias">Licencias</a>
+  <a href="#Licencias">Licencias</a>•
+     <a href="#Contacto">Contacto</a> •
+
 </p>
 
 
@@ -85,4 +87,7 @@ Licencias
 =========
 MIT
 
-(https://www.linkedin.com/in/julio-espinoza-llanos-17475448/)
+Contacto
+=========
+
+https://www.linkedin.com/in/julio-espinoza-llanos-17475448/
