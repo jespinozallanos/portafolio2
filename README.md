@@ -51,7 +51,7 @@ image.
 * The best result I got was with 6,000 epochs.
 
 
-How to use
+Cómo usar
 ======================
 
 * Requeriments
@@ -62,7 +62,7 @@ How to use
 
 * Go to the notebook folder and throught Colab access to the notebook (.ipynb).
   
-Description
+Descripción
 ======================
 1. Initial data treatment and exploration.
 2. First DCGAN Model.
@@ -70,10 +70,11 @@ Description
 4. Evaluation Metrics
 
 
-Credits
+Créditos
 ======================
 JULIO ESPINOZA LLANOS
-Licence
+
+Licencias
 ======================
 Python V3.8.6
 Keras
